@@ -38,4 +38,5 @@ Support now：
 
 4.Joint_optimization
 
-
+##李剑参考：
+1、https://www.jianshu.com/p/88d989ff6dd9 deeprec——CTR模型简述与库文件简介 
